@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kaushik.S and I'm a <br>learner , student from SSEC</h2>
+<h2 align="left">Hi 👋! My name is Kaushik.S and I'm a <br> student from SSEC</h2>
 
 ###
 
